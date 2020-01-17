@@ -1,3 +1,4 @@
+// brick game solution
 package com.company;
 import java.util.*;
 public class brick2 {
