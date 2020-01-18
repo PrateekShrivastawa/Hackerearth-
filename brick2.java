@@ -1,7 +1,7 @@
 // brick game solution
 package com.company;
 import java.util.*;
-public class brick2 {
+public class brickgame {
 public static void main(String [] args)
 {
     int b=0,d=0;
